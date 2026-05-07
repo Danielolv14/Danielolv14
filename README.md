@@ -1,4 +1,4 @@
-## 👨‍💻 Daniel Oliveira
+## 👨‍💻 Daniel Oliveira de Menezes (Dev)
 
 `Software Engineer (Student/Builder/Creator)`
 
@@ -40,18 +40,6 @@ public class Daniel extends SoftwareEngineer {
 
 }
 ```
-
-<br/>
-
----
-
-### 📊 GitHub Stats
-
-<div align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Danielolv14&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=6d28d9&text_color=c9d1d9&hide=contribs,prs" />
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielolv14&layout=compact&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&langs_count=6" />
-</div>
 
 <br/>
 
