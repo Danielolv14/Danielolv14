@@ -2,9 +2,11 @@
 
 `Software Engineer (Student/Builder/Creator)`
 
-Estudante de Engenharia de Software na PUC Minas, focado em construir software que resolve problemas reais.
-Trabalho com sistemas back-end, orientação a objetos e integração de APIs.
-Aqui você encontra meus projetos, experimentos e evolução como dev.
+Software Engineering student at PUC Minas, focused on building software that solves real problems.
+
+I currently work as a Full Stack Developer at Teknisa, on the Retail module — specifically the Point of Sale (POS) front end — using PHP, JavaScript and the Zeedhi / Zeedhi Next frameworks (Vue.js + TypeScript). Day to day, I deal with business rules for retail and food service operations, maintenance of production systems, and front-to-back integration.
+
+Outside of work, back-end is where I feel most at home: Java with Spring Boot, data modeling with PostgreSQL, and REST APIs. Here you'll find my projects, experiments, and my evolution as a developer.
 
 <br/>
 
