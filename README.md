@@ -33,10 +33,12 @@ Aqui você encontra meus projetos, experimentos e evolução como dev.
 ```java
 public class Daniel extends SoftwareEngineer {
 
-    String   university = "PUC Minas — Engenharia de Software";
-    String[] stack      = { "Java", "C", "C++", "JavaScript", "SQL", "HTML", "CSS" };
-    String   focus      = "Back-end, POO, System Design";
-    boolean  openToWork = true;
+    String   location    = "Belo Horizonte, BR"; 
+    String   university  = "PUC Minas — Software Engineer";
+    String[] stack       = { "Java", "PHP", "JavaScript", "SQL", "C/C++" };
+    String   focus       = "Back-end · APIs · System Design · Erro Fixing";
+    String[] interests   = { "arquitetura limpa", "performance", "integrações" };
+    String  workingAt  = "https://www.linkedin.com/company/teknisaoficial/posts/?feedView=all";
 
 }
 ```
