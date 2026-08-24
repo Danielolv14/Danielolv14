@@ -22,7 +22,7 @@ Aqui você encontra meus projetos, experimentos e evolução como dev.
 
 ### 🛠️ Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=java,c,cpp,js,html,css,mysql,git,github&theme=dark&perline=9" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=java,c,cpp,js,html,css,mysql,postgres,git,github,php,vue,sqlserver&theme=dark&perline=12" />
 
 <br/>
 
