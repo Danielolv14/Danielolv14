@@ -1,4 +1,4 @@
-## 👨‍💻 Daniel Oliveira de Menezes (Dev)
+##  Daniel Oliveira de Menezes 
 
 `Software Engineer (Student/Builder/Creator)`
 
