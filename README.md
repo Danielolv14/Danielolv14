@@ -8,6 +8,8 @@ I currently work as a Full Stack Developer at Teknisa, on the Retail module — 
 
 Outside of work, back-end is where I feel most at home: Java with Spring Boot, data modeling with PostgreSQL, and REST APIs. Here you'll find my projects, experiments, and my evolution as a developer.
 
+my portfolio: https://www.danielolv.dev/
+
 <br/>
 
 <div align="left">
