@@ -6,7 +6,7 @@ Software Engineering student at PUC Minas, focused on building software that sol
 
 I currently work as a Full Stack Developer at Teknisa, on the Retail module — specifically the Point of Sale (POS) front end — using PHP, JavaScript and the Zeedhi / Zeedhi Next frameworks (Vue.js + TypeScript). Day to day, I deal with business rules for retail and food service operations, maintenance of production systems, and front-to-back integration.
 
-Outside of work, back-end is where I feel most at home: Java with Spring Boot, data modeling with PostgreSQL, and REST APIs. Here you'll find my projects, experiments, and my evolution as a developer.
+Outside of work, I like building complete products, from the database to the deploy, with Java + Spring Boot, PostgreSQL, React and TypeScript. I'm also very curious about AI and I've been bringing it into my own projects. Here you'll find my projects, experiments, and my evolution as a developer.
 
 my portfolio: https://www.danielolv.dev/
 
@@ -40,8 +40,8 @@ public class Daniel extends SoftwareEngineer {
     String   location    = "Belo Horizonte, BR"; 
     String   university  = "PUC Minas — Software Engineer";
     String[] stack       = { "Java", "PHP", "JavaScript", "SQL", "C/C++" };
-    String   focus       = "Back-end · APIs · System Design · Erro Fixing";
-    String[] interests   = { "arquitetura limpa", "performance", "integrações" };
+    String   focus       = "Full Stack · AI · APIs · System Integration";
+    String[] interests   = { "IA aplicada", "arquitetura limpa", "integrações" };
     String  workingAt  = "https://www.linkedin.com/company/teknisaoficial/posts/?feedView=all";
 
 }
@@ -53,7 +53,7 @@ public class Daniel extends SoftwareEngineer {
 
 ### 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/daniel-oliveira14/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/danielolvz/)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:danieloliveiramenezes4@gmail.com)
 &nbsp;
